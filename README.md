@@ -9,5 +9,6 @@ using pandas in loading and cleaning the file, and importing it to different pla
 
 
 
-![Screenshot 2024-09-27 151910](https://github.com/user-attachments/assets/e7b5ba43-9b7d-43f1-b8f0-991df239cd40)
+![Screenshot 2024-09-27 152221](https://github.com/user-attachments/assets/fcbc8d0a-bf43-482e-bc11-e1320a64b7f7)
+
 
